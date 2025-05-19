@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samim\\git-workspace\\cpp-abdul-bari\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\samim\\git-workspace\\cpp-abdul-bari\\my-debug-project\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-debug-project\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\samim\\git-workspace\\cpp-abdul-bari\\my-debug-project\\my-debug-project.cbp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-debug-project\\my-debug-project.cbp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "my-debug-project.cbp",
+              "DocumentMoniker": "C:\\Users\\samim\\git-workspace\\cpp-abdul-bari\\my-debug-project\\my-debug-project.cbp",
+              "RelativeDocumentMoniker": "my-debug-project\\my-debug-project.cbp",
+              "ToolTip": "C:\\Users\\samim\\git-workspace\\cpp-abdul-bari\\my-debug-project\\my-debug-project.cbp",
+              "RelativeToolTip": "my-debug-project\\my-debug-project.cbp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKESURBVDhPbZO7a1RBGMV/c\u002B/N7szcx\u002B5mkzXGaF4QIkSDAUWw0UoQwcJCAsFGEMFWsPAvsLC1E0EMSWUTH4WtSBDsUm0wimGTNUE2m6xks3fuHYtLxKye6uPM\u002BR5zvhmxtLRkAZIkwRhDkiTEcUwcx6RpShzHGGMwxpCmKZVKhbm5OQGAtdYJw5BSqUSxWKRQKBCGIVEUEUURQRAQBAG\u002B7\u002BP7PkopZmZmmJ\u002BftwAIITylFD09PXx595YzkSR1XJIkxZiYg3ab5Y5lb7qDdVJIBOPj4wAsLCzY2dlZ4UkpyeVyOHtNxu/dI96q015b5eDLKvub3/n8YZnN6x0OcT9\u002BwPDoMACLi4tWVKtVK6XkzaOHXBvsw\u002Bw0iLfqdGrrdGrrPOk9zvbz7MqHuPDzKlM/L9Fut3GklCilaDQabL98RuP1K1qfPtKprQPgOEeTAbSX\u002BSGlzAporUmU7tYB4LpuN4WfC9Fao5TCAfA8D7\u002Bv0q0DoBCVySeasN1PZW\u002BMiYNzjLgTfwp41lqstay0Vjh1uQxRD2ng4ZR8jD7B8tOU8MZNcqWINJ9jX2nWLg5yak5ijME77FQZnGTslkaIHYRo4ji/gCrH3id4m1dQO9Nsrx1gOhbtuly7q4njGOdwgrzsxfO\u002B4bo7OE72TgCCwAcEm1/bmE7GR\u002BUcWuvMRGsz0qYKa/91XKo8QhzlS/15lFJorTMTrbUMDQ0hhH9ECFAul3DE0U1UTmbJUkrExsaGLRQK1Os/aLVuI8QWAJ43gJRTeN4dXjyuE7ijnD4fMnkhYmBEArC7u4uo1Wq2WCwCUKstoHUfWp9FygHI/sufzt1xs9lEVKtV6/vZ6N2Cv/G/s1arxW\u002BaYOtuADruFgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-05-19T09:39:21.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\samim\\git-workspace\\cpp-abdul-bari\\my-debug-project\\main.cpp",
+              "RelativeDocumentMoniker": "my-debug-project\\main.cpp",
+              "ToolTip": "C:\\Users\\samim\\git-workspace\\cpp-abdul-bari\\my-debug-project\\main.cpp",
+              "RelativeToolTip": "my-debug-project\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-19T09:34:15.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
