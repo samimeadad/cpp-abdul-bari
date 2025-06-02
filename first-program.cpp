@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-    system("cls");
+    //system("cls");
     int a, b, sum;
 
     cout<<"Enter two numbers: ";
